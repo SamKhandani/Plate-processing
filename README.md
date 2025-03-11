@@ -82,4 +82,4 @@ This project is a desktop application that processes input images to detect vehi
 
 ----
 ----
-![output4cnn](F:\my\code folder\plak prosesing\runs\detect\train5\val_batch0_pred.jpg)
+![output4cnn](https://github.com/SamKhandani/Plate-processing/blob/main/runs/detect/train5/val_batch2_pred.jpg)
